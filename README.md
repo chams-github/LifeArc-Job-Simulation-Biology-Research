@@ -71,3 +71,8 @@ Each task involved different aspects of experimental design, analysis, and colla
 - **task3/**: Contains the email correspondence with Ela and conclusions from Task 3 (Synthesis and Collaboration).
 - **task4/**: Contains the presentation slides and recording from Task 4 (Presenting the Results).
 - **README.md**: This file, which provides an overview of the repository.
+
+---
+
+## Acknowledgments
+I would like to express my gratitude to **LifeArc** for providing such an insightful job simulation, complete with helpful resources and clear instructions. Additionally, I thank **Forage** for offering this job simulation on their platform, enhancing my skills and knowledge through this valuable experience.
